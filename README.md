@@ -4,6 +4,7 @@ aW50cm8=
 1k intro by
 * knl [coding, music]
 * Ishy [minify help]
+The intro was released at Assembly 2015 and obtained 5th place.
 
 Initially built upon dx9 example in hitchhikr's 1kpack release v0.9c. Was later ported to Crinkler 2.0 for better compression.
 
